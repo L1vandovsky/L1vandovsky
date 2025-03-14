@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @L1vandovsky
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning Frontend direction and C++ language
+- 🌱 I’m currently learning Frontend direction and python language
 - 📫 How to reach me tg/vk -> @L1vandovsky
 
 
